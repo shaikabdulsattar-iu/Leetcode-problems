@@ -7,11 +7,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0001-two-sum) |
+| [0229-majority-element-ii](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0229-majority-element-ii) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0202-happy-number) |
+| [0229-majority-element-ii](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0383-ransom-note) |
 ## String
 |  |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0383-ransom-note) |
 ## Stack
 |  |
@@ -68,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0202-happy-number) |
+## Sorting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
