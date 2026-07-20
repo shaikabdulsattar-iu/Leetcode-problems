@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0020-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0043-multiply-strings) |
 | [0065-valid-number](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0067-add-binary) |
@@ -43,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0383-ransom-note) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
