@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0383-ransom-note) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## String
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0067-add-binary) |
 | [0383-ransom-note](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0383-ransom-note) |
 | [0520-detect-capital](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0520-detect-capital) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2000-reverse-prefix-of-word](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/2000-reverse-prefix-of-word) |
 | [2027-minimum-moves-to-convert-string](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/2027-minimum-moves-to-convert-string) |
 ## Greedy
