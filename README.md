@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0229-majority-element-ii](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0383-ransom-note) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## String
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0367-valid-perfect-square) |
 | [0728-self-dividing-numbers](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0728-self-dividing-numbers) |
@@ -64,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0067-add-binary) |
+| [0268-missing-number](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0268-missing-number) |
 ## Counting
 |  |
 | ------- |
@@ -79,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0367-valid-perfect-square) |
 ## Dynamic Programming
 |  |
@@ -98,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
