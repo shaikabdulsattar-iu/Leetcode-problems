@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Hash Table
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0383-ransom-note) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0367-valid-perfect-square) |
 ## Dynamic Programming
 |  |
@@ -128,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0165-compare-version-numbers](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0165-compare-version-numbers) |
 | [0202-happy-number](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0202-happy-number) |
+| [0349-intersection-of-two-arrays](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [2000-reverse-prefix-of-word](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/2000-reverse-prefix-of-word) |
 ## Sorting
 |  |
@@ -137,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
