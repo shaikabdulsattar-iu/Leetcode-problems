@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0268-missing-number) |
 | [1486-xor-operation-in-an-array](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/1486-xor-operation-in-an-array) |
 ## Counting
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0190-reverse-bits) |
 ## Database
 |  |
 | ------- |
