@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0728-self-dividing-numbers) |
+| [1486-xor-operation-in-an-array](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/1486-xor-operation-in-an-array) |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
 | [2119-a-number-after-a-double-reversal](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/2119-a-number-after-a-double-reversal) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0268-missing-number) |
+| [1486-xor-operation-in-an-array](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/1486-xor-operation-in-an-array) |
 ## Counting
 |  |
 | ------- |
