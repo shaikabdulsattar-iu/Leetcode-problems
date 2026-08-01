@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0078-subsets](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0169-majority-element) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0268-missing-number) |
@@ -194,4 +196,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0292-nim-game) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
