@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0065-valid-number](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0067-add-binary) |
 | [0165-compare-version-numbers](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0165-compare-version-numbers) |
+| [0227-basic-calculator-ii](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0227-basic-calculator-ii) |
 | [0383-ransom-note](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0383-ransom-note) |
 | [0520-detect-capital](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0520-detect-capital) |
 | [0657-robot-return-to-origin](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0657-robot-return-to-origin) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0202-happy-number) |
+| [0227-basic-calculator-ii](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0227-basic-calculator-ii) |
 | [0263-ugly-number](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0292-nim-game) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0020-valid-parentheses) |
+| [0227-basic-calculator-ii](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0227-basic-calculator-ii) |
 | [2000-reverse-prefix-of-word](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/2000-reverse-prefix-of-word) |
 ## Binary Search
 |  |
