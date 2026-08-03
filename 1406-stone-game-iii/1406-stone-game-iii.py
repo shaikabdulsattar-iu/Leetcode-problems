@@ -1,34 +1,22 @@
-from functools import cache
-from typing import List
-
-
 class Solution:
 
-  def stoneGameIII(self, stoneValue: List[int]) -> str:
+  def stoneGameIII(self, stoneValue: list[int]) -> str:
     n = len(stoneValue)
+    dp = [0] * (n + 1)
 
-    @cache
-    def maxDiff(i: int) -> int:
-      if i == n:
-        return 0
-
-      # Try taking 1, 2, or 3 stones
-      ans = float("-inf")
+    for i in range(n - 1, -1, -1):
+      dp[i] = float("-inf")
       current_sum = 0
-
       for k in range(1, 4):
         if i + k <= n:
           current_sum += stoneValue[i + k - 1]
-          ans = max(ans, current_sum - maxDiff(i + k))
+          dp[i] = max(dp[i], current_sum - dp[i + k])
 
-      return ans
-
-    alice_diff = maxDiff(0)
+    alice_diff = dp[0]
 
     if alice_diff > 0:
       return "Alice"
     elif alice_diff < 0:
       return "Bob"
     else:
-      return "Tie"       
-        
+      return "Tie"
