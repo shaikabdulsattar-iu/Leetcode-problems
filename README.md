@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
 | [2119-a-number-after-a-double-reversal](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/2119-a-number-after-a-double-reversal) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/3536-maximum-product-of-two-digits) |
 ## Simulation
@@ -230,4 +231,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/3310-remove-methods-from-project) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
