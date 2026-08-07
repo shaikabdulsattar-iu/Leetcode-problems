@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0367-valid-perfect-square) |
 | [0486-predict-the-winner](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0486-predict-the-winner) |
 | [0507-perfect-number](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0507-perfect-number) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0342-power-of-four) |
 | [1486-xor-operation-in-an-array](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/1486-xor-operation-in-an-array) |
 ## Counting
 |  |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0342-power-of-four) |
 | [0486-predict-the-winner](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0486-predict-the-winner) |
 ## Heap (Priority Queue)
 |  |
