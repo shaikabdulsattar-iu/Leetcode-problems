@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0877-stone-game) |
+| [0989-add-to-array-form-of-integer](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0989-add-to-array-form-of-integer) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1406-stone-game-iii](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0728-self-dividing-numbers) |
 | [0877-stone-game](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0877-stone-game) |
+| [0989-add-to-array-form-of-integer](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0989-add-to-array-form-of-integer) |
 | [1406-stone-game-iii](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/1406-stone-game-iii) |
 | [1486-xor-operation-in-an-array](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/1486-xor-operation-in-an-array) |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
