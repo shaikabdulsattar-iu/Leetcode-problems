@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0342-power-of-four) |
 | [1486-xor-operation-in-an-array](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/1486-xor-operation-in-an-array) |
+| [2595-number-of-even-and-odd-bits](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/2595-number-of-even-and-odd-bits) |
 ## Counting
 |  |
 | ------- |
