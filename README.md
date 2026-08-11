@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0342-power-of-four) |
 | [1486-xor-operation-in-an-array](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/1486-xor-operation-in-an-array) |
 | [2595-number-of-even-and-odd-bits](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/2595-number-of-even-and-odd-bits) |
+| [3226-number-of-bit-changes-to-make-two-integers-equal](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/3226-number-of-bit-changes-to-make-two-integers-equal) |
 ## Counting
 |  |
 | ------- |
