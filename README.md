@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3370-smallest-number-with-all-set-bits](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/3536-maximum-product-of-two-digits) |
 ## Simulation
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-xor-operation-in-an-array](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/1486-xor-operation-in-an-array) |
 | [2595-number-of-even-and-odd-bits](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/2595-number-of-even-and-odd-bits) |
 | [3226-number-of-bit-changes-to-make-two-integers-equal](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/3226-number-of-bit-changes-to-make-two-integers-equal) |
+| [3370-smallest-number-with-all-set-bits](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/3370-smallest-number-with-all-set-bits) |
 ## Counting
 |  |
 | ------- |
