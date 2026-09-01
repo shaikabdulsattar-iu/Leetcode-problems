@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3731-find-missing-elements](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2351-first-letter-to-appear-twice](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/2351-first-letter-to-appear-twice) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3731-find-missing-elements](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/3731-find-missing-elements) |
 ## String
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2595-number-of-even-and-odd-bits](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/2595-number-of-even-and-odd-bits) |
 | [3226-number-of-bit-changes-to-make-two-integers-equal](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/3226-number-of-bit-changes-to-make-two-integers-equal) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/3370-smallest-number-with-all-set-bits) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Counting
 |  |
 | ------- |
@@ -261,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/3310-remove-methods-from-project) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
 |  |
 | ------- |
@@ -283,4 +287,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0002-add-two-numbers) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Matrix
+|  |
+| ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 <!---LeetCode Topics End-->
