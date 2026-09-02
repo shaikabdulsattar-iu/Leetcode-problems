@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3731-find-missing-elements](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/3731-find-missing-elements) |
+| [3875-construct-uniform-parity-array-i](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/3536-maximum-product-of-two-digits) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3875-construct-uniform-parity-array-i](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/3875-construct-uniform-parity-array-i) |
 ## Simulation
 |  |
 | ------- |
