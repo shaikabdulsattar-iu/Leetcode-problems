@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
 | [1952-three-divisors](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/1952-three-divisors) |
 | [2119-a-number-after-a-double-reversal](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/2119-a-number-after-a-double-reversal) |
+| [2427-number-of-common-factors](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/2427-number-of-common-factors) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -282,12 +283,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0204-count-primes) |
 | [1952-three-divisors](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/1952-three-divisors) |
+| [2427-number-of-common-factors](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/2427-number-of-common-factors) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Number Theory
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0204-count-primes) |
 | [1952-three-divisors](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/1952-three-divisors) |
+| [2427-number-of-common-factors](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/2427-number-of-common-factors) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Sliding Window
@@ -320,4 +323,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/1952-three-divisors) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/2427-number-of-common-factors) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/2427-number-of-common-factors) |
 <!---LeetCode Topics End-->
