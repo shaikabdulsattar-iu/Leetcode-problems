@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1406-stone-game-iii](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-xor-operation-in-an-array](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/1486-xor-operation-in-an-array) |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
 | [1952-three-divisors](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/1952-three-divisors) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/2119-a-number-after-a-double-reversal) |
 | [2427-number-of-common-factors](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/2427-number-of-common-factors) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0204-count-primes) |
 | [1952-three-divisors](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/1952-three-divisors) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2427-number-of-common-factors](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/2427-number-of-common-factors) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -329,9 +332,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Euclidean Algorithm
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2427-number-of-common-factors](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/2427-number-of-common-factors) |
 ## Greatest Common Divisor
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2427-number-of-common-factors](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/2427-number-of-common-factors) |
 <!---LeetCode Topics End-->
