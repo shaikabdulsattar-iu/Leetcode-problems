@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0342-power-of-four) |
+| [0343-integer-break](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0343-integer-break) |
 | [0367-valid-perfect-square](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0367-valid-perfect-square) |
 | [0486-predict-the-winner](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0486-predict-the-winner) |
 | [0507-perfect-number](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0507-perfect-number) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0118-pascals-triangle) |
+| [0343-integer-break](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0343-integer-break) |
 | [0486-predict-the-winner](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/1406-stone-game-iii) |
