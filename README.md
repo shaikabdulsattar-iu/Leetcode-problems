@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0078-subsets](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0088-merge-sorted-array) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0191-number-of-1-bits) |
