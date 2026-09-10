@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0709-to-lower-case) |
 | [1108-defanging-an-ip-address](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/1108-defanging-an-ip-address) |
+| [1556-thousand-separator](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/1556-thousand-separator) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2000-reverse-prefix-of-word](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/2000-reverse-prefix-of-word) |
 | [2027-minimum-moves-to-convert-string](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/2027-minimum-moves-to-convert-string) |
