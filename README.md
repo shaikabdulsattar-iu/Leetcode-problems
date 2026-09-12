@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0383-ransom-note) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2351-first-letter-to-appear-twice](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/2351-first-letter-to-appear-twice) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/3483-unique-3-digit-even-numbers) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2000-reverse-prefix-of-word](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/2000-reverse-prefix-of-word) |
 | [2027-minimum-moves-to-convert-string](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/2027-minimum-moves-to-convert-string) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2351-first-letter-to-appear-twice](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/2351-first-letter-to-appear-twice) |
 | [2833-furthest-point-from-origin](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/2833-furthest-point-from-origin) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0383-ransom-note) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2351-first-letter-to-appear-twice](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/2351-first-letter-to-appear-twice) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2833-furthest-point-from-origin](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/2833-furthest-point-from-origin) |
