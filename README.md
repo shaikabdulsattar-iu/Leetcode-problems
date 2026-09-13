@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/3483-unique-3-digit-even-numbers) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/1108-defanging-an-ip-address) |
 | [1556-thousand-separator](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/1556-thousand-separator) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2000-reverse-prefix-of-word](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/2000-reverse-prefix-of-word) |
 | [2027-minimum-moves-to-convert-string](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/2027-minimum-moves-to-convert-string) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
