@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0709-to-lower-case) |
 | [1108-defanging-an-ip-address](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/1108-defanging-an-ip-address) |
 | [1556-thousand-separator](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/1556-thousand-separator) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2000-reverse-prefix-of-word](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/2000-reverse-prefix-of-word) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/1406-stone-game-iii) |
 | [1486-xor-operation-in-an-array](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/1486-xor-operation-in-an-array) |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1952-three-divisors](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
