@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1406-stone-game-iii](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1470-shuffle-the-array](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/1470-shuffle-the-array) |
 | [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1929-concatenation-of-array](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/1929-concatenation-of-array) |
