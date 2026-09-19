@@ -388,4 +388,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0069-sqrtx) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
