@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3136-valid-word](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/3136-valid-word) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3498-reverse-degree-of-a-string](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3941-password-strength](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/3941-password-strength) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0657-robot-return-to-origin) |
 | [1929-concatenation-of-array](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/1929-concatenation-of-array) |
+| [3498-reverse-degree-of-a-string](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/3498-reverse-degree-of-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
