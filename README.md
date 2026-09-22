@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3731-find-missing-elements](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3731-find-missing-elements](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/3731-find-missing-elements) |
 | [3941-password-strength](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/3941-password-strength) |
 ## String
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 ## Stack
 |  |
 | ------- |
