@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0367-valid-perfect-square) |
 | [0486-predict-the-winner](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0486-predict-the-winner) |
 | [0507-perfect-number](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0507-perfect-number) |
+| [0509-fibonacci-number](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0728-self-dividing-numbers) |
 | [0877-stone-game](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0877-stone-game) |
@@ -236,12 +237,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0118-pascals-triangle) |
 | [0343-integer-break](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0343-integer-break) |
 | [0486-predict-the-winner](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0486-predict-the-winner) |
+| [0509-fibonacci-number](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/1406-stone-game-iii) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0070-climbing-stairs) |
+| [0509-fibonacci-number](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -281,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0342-power-of-four) |
 | [0486-predict-the-winner](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0486-predict-the-winner) |
+| [0509-fibonacci-number](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0509-fibonacci-number) |
 | [3483-unique-3-digit-even-numbers](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/3483-unique-3-digit-even-numbers) |
 ## Heap (Priority Queue)
 |  |
