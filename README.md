@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1406-stone-game-iii](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/1406-stone-game-iii) |
 | [1486-xor-operation-in-an-array](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/1486-xor-operation-in-an-array) |
+| [1518-water-bottles](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/1518-water-bottles) |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0657-robot-return-to-origin) |
+| [1518-water-bottles](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/1518-water-bottles) |
 | [1929-concatenation-of-array](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/1929-concatenation-of-array) |
 | [3498-reverse-degree-of-a-string](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/3498-reverse-degree-of-a-string) |
 ## Bit Manipulation
