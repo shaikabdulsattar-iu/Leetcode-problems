@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0389-find-the-difference) |
+| [0412-fizz-buzz](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0520-detect-capital) |
 | [0551-student-attendance-record-i](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0551-student-attendance-record-i) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0343-integer-break) |
 | [0367-valid-perfect-square](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0367-valid-perfect-square) |
+| [0412-fizz-buzz](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0412-fizz-buzz) |
 | [0486-predict-the-winner](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0486-predict-the-winner) |
 | [0507-perfect-number](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0509-fibonacci-number) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0657-robot-return-to-origin) |
 | [1518-water-bottles](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/1518-water-bottles) |
 | [1929-concatenation-of-array](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/1929-concatenation-of-array) |
