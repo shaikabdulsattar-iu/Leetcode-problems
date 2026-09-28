@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0709-to-lower-case) |
 | [1108-defanging-an-ip-address](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/1108-defanging-an-ip-address) |
 | [1556-thousand-separator](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/1556-thousand-separator) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0020-valid-parentheses) |
 | [0227-basic-calculator-ii](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0227-basic-calculator-ii) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/2000-reverse-prefix-of-word) |
 ## Binary Search
 |  |
@@ -420,4 +422,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
