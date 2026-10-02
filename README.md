@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0414-third-maximum-number) |
 | [0486-predict-the-winner](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0486-predict-the-winner) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0165-compare-version-numbers](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0165-compare-version-numbers) |
 | [0202-happy-number](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0557-reverse-words-in-a-string-iii) |
