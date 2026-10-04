@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0037-sudoku-solver](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0037-sudoku-solver) |
+| [0075-sort-colors](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0118-pascals-triangle) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0075-sort-colors](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0165-compare-version-numbers](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0165-compare-version-numbers) |
 | [0202-happy-number](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0202-happy-number) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0217-contains-duplicate) |
@@ -451,4 +454,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0037-sudoku-solver) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
