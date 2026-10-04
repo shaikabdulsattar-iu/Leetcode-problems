@@ -1,10 +1,14 @@
 class Solution:
-    def countBits(self, n: int) -> list[int]:
-        ans = [0] * (n + 1)
-        for i in range(1, n + 1):
-            # ans[i >> 1] is the bit count of i // 2
-            # (i & 1) checks if the least significant bit is 1
-            ans[i] = ans[i >> 1] + (i & 1)
-        return ans
-        
+    def countBits(self, n: int) -> List[int]:
+        a = [0]
+        k = 0
+
+        while len(a) <= n:
+            new_a = [0] * (2**k)
+            for i in range(2**k):
+                new_a[i] = a[i] + 1
+            a = a + new_a
+            k += 1
+            
+        return a[:n+1]
         
