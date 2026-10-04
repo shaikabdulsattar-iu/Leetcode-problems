@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0728-self-dividing-numbers) |
+| [0866-prime-palindrome](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0866-prime-palindrome) |
 | [0877-stone-game](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0877-stone-game) |
 | [0989-add-to-array-form-of-integer](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0989-add-to-array-form-of-integer) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0204-count-primes) |
+| [0866-prime-palindrome](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0866-prime-palindrome) |
 | [1952-three-divisors](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2427-number-of-common-factors](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/2427-number-of-common-factors) |
@@ -417,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0204-count-primes) |
+| [0866-prime-palindrome](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0866-prime-palindrome) |
 ## Sieve Theory
 |  |
 | ------- |
