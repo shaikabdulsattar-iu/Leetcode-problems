@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0089-gray-code) |
 | [0171-excel-sheet-column-number](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0204-count-primes) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0191-number-of-1-bits) |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0037-sudoku-solver) |
 | [0078-subsets](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/0089-gray-code) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/shaikabdulsattar-iu/Leetcode-problems/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Depth-First Search
