@@ -1,10 +1,17 @@
 class Solution:
     def countDigits(self, num: int) -> int:
-        c = 0
+        count = 0
         temp = num
+        
         while temp > 0:
-            dig = temp % 10
-            if num % dig == 0:
-                c += 1
+            digit = temp % 10
+            if num % digit == 0:
+                count += 1
             temp //= 10
-        return c
+            
+        return count
+             
+
+
+        
+        
